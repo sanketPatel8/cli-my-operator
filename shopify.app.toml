@@ -2,7 +2,7 @@
 
 client_id = "4ae793f0ac22674c2b78446439aac4ba"
 name = "MyOperator"
-application_url = "https://locked-imaging-railway-exist.trycloudflare.com"
+application_url = "https://scholar-medal-accused-assessment.trycloudflare.com"
 embedded = true
 handle = "myoperator-waba"
 
@@ -22,7 +22,7 @@ api_version = "2025-07"
   uri = "/webhooks/app/scopes_update"
 
 [auth]
-redirect_urls = ["https://locked-imaging-railway-exist.trycloudflare.com/auth/callback", "https://locked-imaging-railway-exist.trycloudflare.com/auth/shopify/callback", "https://locked-imaging-railway-exist.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://scholar-medal-accused-assessment.trycloudflare.com/auth/callback", "https://scholar-medal-accused-assessment.trycloudflare.com/auth/shopify/callback", "https://scholar-medal-accused-assessment.trycloudflare.com/api/auth/callback"]
 
 [pos]
 embedded = false
